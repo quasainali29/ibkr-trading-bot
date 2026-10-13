@@ -1,0 +1,13 @@
+{
+  "account_id": "DUQ190188",
+  "cash": "800.00",
+  "checksum": "d8bdee812b0c0f92e89652ff74e96f5457a69b75e14587de741dcbc0b39efdb7",
+  "created_at": "2026-10-06T12:45:10+00:00",
+  "initial_capital": "800.00",
+  "peak_equity": "800.00",
+  "pending_orders": [],
+  "positions": [],
+  "realized_pnl": "0",
+  "schema_version": 1,
+  "updated_at": "2026-10-06T12:45:10+00:00"
+}

@@ -1,0 +1,29 @@
+# Default backtest universe (one symbol per line; '#' comments allowed).
+# WARNING - SURVIVORSHIP BIAS: most names below were chosen with hindsight
+# (recent winners). Results for a long-only strategy will be optimistic.
+# The control / weaker names at the end partially offset this.
+AAPL
+MSFT
+NVDA
+GOOGL
+META
+AMD
+AVGO
+JPM
+LLY
+COST
+AMZN
+CAT
+XOM
+SPY
+QQQ
+XLV
+XLF
+XLI
+VXUS
+# control / weaker names
+INTC
+PFE
+BA
+DIS
+NKE

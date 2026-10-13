@@ -1,0 +1,192 @@
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T12:45:09+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_created", "initial_capital": "800.00", "ts": "2026-10-06T12:45:10+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T12:45:10+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T12:45:10+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T12:45:10+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T12:45:10+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T12:46:00+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T12:46:01+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T12:46:01+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T12:46:01+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T12:46:01+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T12:46:08+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T12:54:50+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T12:54:52+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T12:54:52+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T12:54:52+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T12:54:52+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T12:54:52+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:16:42+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:16:43+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:16:43+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:16:43+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T13:16:43+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:16:43+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:55:02+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:55:02+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:55:02+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:55:02+00:00"}
+{"data_ok": false, "data_type": null, "errors": ["quote: quote unavailable: No market data during competing live session", "1d bars unavailable: AAPL 1d bars (1 Y): IBKR 162: Historical Market Data Service error message:Trading TWS session is connected from a different IP address"], "event": "analysis", "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-06T13:55:14+00:00", "usable": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:55:15+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:55:31+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:55:32+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:55:32+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:55:32+00:00"}
+{"data_ok": false, "data_type": null, "errors": ["quote: quote unavailable: No market data during competing live session", "1d bars unavailable: AAPL 1d bars (1 Y): IBKR 162: Historical Market Data Service error message:Trading TWS session is connected from a different IP address"], "event": "analysis", "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-06T13:55:43+00:00", "usable": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:55:43+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:59:32+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:59:33+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:59:33+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:59:33+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T13:59:33+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:59:33+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:59:33+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:59:34+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:59:34+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:59:34+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T13:59:34+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:59:34+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T13:59:35+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T13:59:36+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T13:59:36+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T13:59:36+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T13:59:53+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T14:00:55+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T14:00:56+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T14:00:56+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T14:00:56+00:00"}
+{"data_ok": false, "data_type": null, "errors": ["quote: quote unavailable: No market data during competing live session", "1d bars unavailable: AAPL 1d bars (1 Y): IBKR 162: Historical Market Data Service error message:Trading TWS session is connected from a different IP address"], "event": "analysis", "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-06T14:01:07+00:00", "usable": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T14:01:07+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-06T14:01:08+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-06T14:01:08+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 0, "mismatches": [], "ok": true, "ts": "2026-10-06T14:01:08+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-06T14:01:08+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-06T14:01:08+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-06T14:01:08+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T12:52:49+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T12:52:51+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T12:52:51+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T12:52:51+00:00"}
+{"data_ok": false, "data_type": null, "errors": ["quote: quote unavailable: no quote ticks received"], "event": "analysis", "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-08T12:53:06+00:00", "usable": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T12:53:06+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T12:53:10+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T12:53:11+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T12:53:11+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T12:53:11+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T12:53:25+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T12:57:49+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T12:57:50+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T12:57:50+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T12:57:50+00:00"}
+{"data_ok": false, "data_type": null, "errors": ["quote: quote unavailable: no quote ticks received"], "event": "analysis", "symbol": "SPY", "timeframe": "1d", "ts": "2026-10-08T12:58:04+00:00", "usable": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T12:58:04+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:01:22+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:01:23+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:01:23+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:01:23+00:00"}
+{"blockers": ["regular market closed", "DELAYED (~15-20 min) data cannot authorize trades"], "data_type": 3, "errors": [], "event": "analysis", "historical_valid": true, "market_open": false, "quote_available": true, "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-08T13:01:25+00:00", "usable_for_analysis": true, "usable_for_trading": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:01:25+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:01:34+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:01:35+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:01:35+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:01:35+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:01:36+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:01:37+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:01:38+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:01:38+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:01:38+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:01:40+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:32:12+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:32:13+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:32:13+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:32:13+00:00"}
+{"blockers": ["historical data stale", "DELAYED (~15-20 min) data cannot authorize trades"], "data_type": 3, "errors": [], "event": "analysis", "historical_valid": true, "market_open": true, "quote_available": true, "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-08T13:32:15+00:00", "usable_for_analysis": false, "usable_for_trading": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:32:15+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:33:01+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:33:01+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:33:01+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:33:01+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:33:04+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:37:36+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:37:37+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:37:37+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:37:37+00:00"}
+{"blockers": ["DELAYED (~15-20 min) data cannot authorize trades"], "data_type": 3, "errors": [], "event": "analysis", "historical_valid": true, "market_open": true, "quote_available": true, "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-08T13:37:39+00:00", "usable_for_analysis": true, "usable_for_trading": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:37:39+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:37:40+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:37:41+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:37:41+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:37:41+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:37:43+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:38:19+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:38:19+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:38:19+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:38:19+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:38:23+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:38:37+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:38:38+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:38:38+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:38:38+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:38:40+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T13:38:41+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T13:38:42+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T13:38:42+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T13:38:42+00:00"}
+{"blockers": ["DELAYED (~15-20 min) data cannot authorize trades"], "data_type": 3, "errors": [], "event": "analysis", "historical_valid": true, "market_open": true, "quote_available": true, "symbol": "AAPL", "timeframe": "1d", "ts": "2026-10-08T13:38:44+00:00", "usable_for_analysis": true, "usable_for_trading": false}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T13:38:44+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T14:45:02+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T14:45:03+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T14:45:03+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T14:45:03+00:00"}
+{"event": "evaluation", "proposal": {"affordability_note": "Sizing preview (not an order): up to 2 whole share(s) by BOT capital, 2 within the 2% risk rule at maximum entry", "analysis_mode": "ANALYSIS_ONLY", "candle_context": "BULLISH MODERATE: lower-wick rejection at support 334.7824381047486225027505427-336.4275618952513774972494573; lower-wick rejection within uptrend structure; indecision", "confidence": "LOW", "direction": "LONG", "entry": "337.09", "execution_blockers": [{"code": "QUOTE_DELAYED_OR_FROZEN", "message": "quote is DELAYED (~15-20 min): cannot authorize trades"}, {"code": "REQUIRED_TIMEFRAME_STALE", "message": "required 5m bars stale: last 5m bar 2026-10-08T14:25:00+00:00 is older than 720s while the market is open"}], "execution_eligible": false, "expected_holding_period": "1-5 trading days", "invalidation": "daily close back below the breakout zone (334.7824381047486225027505427)", "market_data_check": null, "market_regime": "RISK_ON (SPY UPTREND, QQQ UPTREND)", "market_structure": "1d MIXED (trend UPTREND); breakout, failed breakdown; +0.33 ATR vs MA20", "maximum_entry": "338.74", "missing_optional": ["1m"], "no_trade_reasons": [{"code": "WEAK_VOLUME", "message": "1d relative volume below 0.8"}, {"code": "POOR_REWARD_RISK", "message": "reward/risk 1.69 below 2.0 (Target 1)"}], "notes": [], "opportunity_score": 56, "price_state": "IN_RANGE", "proposed_action": "NO_TRADE", "relative_strength": "SPY OUTPERFORMING (+2.40%), QQQ NEUTRAL (+0.32%), XLK NEUTRAL (-0.51%)", "reward_risk": "1.687878787878787878787878788", "risk_decision": null, "risk_factors": ["optional timeframes not fresh: 1m", "resistance 0.82 ATR overhead", "fundamentals, news, earnings and catalysts NOT evaluated (deterministic phase)"], "risk_quantity": null, "risk_status": "NOT EVALUATED (analysis only)", "score_breakdown": {"components": [{"max_points": 25, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "technical_structure", "points": "11.66666666666666666666666667", "reasons": ["daily structure mixed (+3)", "weak daily breakout (+4)", "intraday structure agreement 67% (+4.7)"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "volume_confirmation", "points": "4", "reasons": ["trigger RVOL 0.80 (+0)", "buying pressure MODERATE (+3)", "breakout volume quality WEAK (+1)"]}, {"max_points": 15, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "multi_timeframe_alignment", "points": "12.0", "reasons": ["weighted alignment 80% over 1d, 1h, 15m, 5m, 1m", "not fresh (0 points, not redistributed): 5m, 1m"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "support_resistance_quality", "points": "8", "reasons": ["zone 334.7824381047486225027505427-336.4275618952513774972494573: 2 touches (+3)", "touched within last 20 sessions (+2)", "entry 0.10 ATR from zone (+3)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "relative_strength", "points": "6.666666666666666666666666667", "reasons": ["SPY OUTPERFORMING (+2.40%), QQQ NEUTRAL (+0.32%), XLK NEUTRAL (-0.51%)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "market_regime_alignment", "points": "10", "reasons": ["regime RISK_ON"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "reward_risk", "points": "4", "reasons": ["R:R 1.69 to Target 1 (+4)"]}]}, "setup_classification": "WATCH", "stop": "333.79", "stop_type": "BELOW_BREAKOUT_LEVEL+ATR_FLOOR", "strategy_type": "BREAKOUT", "target_1": "342.66", "target_1_source": "RESISTANCE_ZONE 342.99-345.34", "target_2": "347.04", "target_2_source": "MEASURED_MOVE (base 325.81-336.4275618952513774972494573)", "technical_thesis": "BREAKOUT: 1d close above resistance 334.7824381047486225027505427-336.4275618952513774972494573 (WEAK)", "ticker": "AAPL", "timeframe_policy": {"horizon": "SHORT_TERM", "optional": ["1m"], "preferred": [], "required": ["1d", "1h", "15m", "5m"]}, "volume_context": "buying MODERATE, selling WEAK, RVOL 0.80"}, "system_state": "SAFE", "ts": "2026-10-08T14:45:15+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T14:45:16+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T14:48:46+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T14:48:47+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T14:48:47+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T14:48:47+00:00"}
+{"event": "evaluation", "proposal": {"affordability_note": "Sizing preview (not an order): up to 2 whole share(s) by BOT capital, 2 within the 2% risk rule at maximum entry", "analysis_mode": "ANALYSIS_ONLY", "candle_context": "BULLISH MODERATE: lower-wick rejection at support 334.78-336.43; lower-wick rejection within uptrend structure; indecision", "confidence": "LOW", "direction": "LONG", "entry": "337.09", "execution_blockers": [{"code": "QUOTE_DELAYED_OR_FROZEN", "message": "quote is DELAYED (~15-20 min): cannot authorize trades"}, {"code": "REQUIRED_TIMEFRAME_STALE", "message": "required 5m bars stale: last 5m bar 2026-10-08T14:30:00+00:00 is older than 720s while the market is open"}], "execution_eligible": false, "expected_holding_period": "1-5 trading days", "invalidation": "daily close back below the breakout zone (334.78)", "market_data_check": null, "market_regime": "RISK_ON (SPY UPTREND, QQQ UPTREND)", "market_structure": "1d MIXED (trend UPTREND); breakout, failed breakdown; +0.33 ATR vs MA20", "maximum_entry": "338.74", "missing_optional": ["1m"], "no_trade_reasons": [{"code": "WEAK_VOLUME", "message": "1d relative volume below 0.8"}, {"code": "POOR_REWARD_RISK", "message": "reward/risk 1.69 below 2.0 (Target 1)"}], "notes": [], "opportunity_score": 56, "price_state": "IN_RANGE", "proposed_action": "NO_TRADE", "relative_strength": "SPY OUTPERFORMING (+2.40%), QQQ NEUTRAL (+0.32%), XLK NEUTRAL (-0.51%)", "reward_risk": "1.687878787878787878787878788", "risk_decision": null, "risk_factors": ["optional timeframes not fresh: 1m", "resistance 0.75 ATR overhead", "fundamentals, news, earnings and catalysts NOT evaluated (deterministic phase)"], "risk_quantity": null, "risk_status": "NOT EVALUATED (analysis only)", "score_breakdown": {"components": [{"max_points": 25, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "technical_structure", "points": "11.66666666666666666666666667", "reasons": ["daily structure mixed (+3)", "weak daily breakout (+4)", "intraday structure agreement 67% (+4.7)"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "volume_confirmation", "points": "4", "reasons": ["trigger RVOL 0.80 (+0)", "buying pressure MODERATE (+3)", "breakout volume quality WEAK (+1)"]}, {"max_points": 15, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "multi_timeframe_alignment", "points": "12.0", "reasons": ["weighted alignment 80% over 1d, 1h, 15m, 5m, 1m", "not fresh (0 points, not redistributed): 5m, 1m"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "support_resistance_quality", "points": "8", "reasons": ["zone 334.78-336.43: 2 touches (+3)", "touched within last 20 sessions (+2)", "entry 0.10 ATR from zone (+3)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "relative_strength", "points": "6.666666666666666666666666667", "reasons": ["SPY OUTPERFORMING (+2.40%), QQQ NEUTRAL (+0.32%), XLK NEUTRAL (-0.51%)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "market_regime_alignment", "points": "10", "reasons": ["regime RISK_ON"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "reward_risk", "points": "4", "reasons": ["R:R 1.69 to Target 1 (+4)"]}]}, "setup_classification": "WATCH", "stop": "333.79", "stop_type": "BELOW_BREAKOUT_LEVEL+ATR_FLOOR", "strategy_type": "BREAKOUT", "target_1": "342.66", "target_1_source": "RESISTANCE_ZONE 342.99-345.34", "target_2": "347.05", "target_2_source": "MEASURED_MOVE (base 325.81-336.43)", "technical_thesis": "BREAKOUT: 1d close above resistance 334.78-336.43 (WEAK)", "ticker": "AAPL", "timeframe_policy": {"horizon": "SHORT_TERM", "optional": ["1m"], "preferred": [], "required": ["1d", "1h", "15m", "5m"]}, "volume_context": "buying MODERATE, selling WEAK, RVOL 0.80"}, "system_state": "SAFE", "ts": "2026-10-08T14:48:54+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T14:48:54+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T14:49:17+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T14:49:18+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T14:49:18+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T14:49:18+00:00"}
+{"event": "evaluation", "proposal": {"affordability_note": "Sizing preview (not an order): up to 1 whole share(s) by BOT capital, 1 within the 2% risk rule at maximum entry", "analysis_mode": "ANALYSIS_ONLY", "candle_context": "NEUTRAL NONE: no notable shape", "confidence": "LOW", "direction": "LONG", "entry": "777.52", "execution_blockers": [{"code": "QUOTE_DELAYED_OR_FROZEN", "message": "quote is DELAYED (~15-20 min): cannot authorize trades"}, {"code": "REQUIRED_TIMEFRAME_STALE", "message": "required 5m bars stale: last 5m bar 2026-10-08T14:30:00+00:00 is older than 720s while the market is open"}], "execution_eligible": false, "expected_holding_period": "1-5 trading days", "invalidation": "daily close back below the breakout zone (774.03)", "market_data_check": null, "market_regime": "RISK_ON (SPY UPTREND, QQQ UPTREND)", "market_structure": "1d UPTREND_STRUCTURE (trend UPTREND); breakout, failed breakdown; +1.61 ATR vs MA20", "maximum_entry": "779.20", "missing_optional": ["1m"], "no_trade_reasons": [{"code": "POOR_REWARD_RISK", "message": "reward/risk 0.16 below 2.0 (Target 1)"}], "notes": [], "opportunity_score": 64, "price_state": "AWAITING_TRIGGER", "proposed_action": "NO_TRADE", "relative_strength": "SPY NEUTRAL (+0.00%)", "reward_risk": "0.1610576923076923076923076923", "risk_decision": null, "risk_factors": ["optional timeframes not fresh: 1m", "resistance 0.31 ATR overhead", "fundamentals, news, earnings and catalysts NOT evaluated (deterministic phase)"], "risk_quantity": null, "risk_status": "NOT EVALUATED (analysis only)", "score_breakdown": {"components": [{"max_points": 25, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "technical_structure", "points": "20.91666666666666666666666667", "reasons": ["daily HH/HL structure (+10)", "uptrend continuation (+8)", "intraday structure agreement 42% (+2.9)"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "volume_confirmation", "points": "8", "reasons": ["trigger RVOL 0.84 (+2)", "buying pressure STRONG (+5)", "breakout volume quality WEAK (+1)"]}, {"max_points": 15, "missing_optional": ["1m"], "missing_required": ["5m"], "name": "multi_timeframe_alignment", "points": "9.75", "reasons": ["weighted alignment 65% over 1d, 1h, 15m, 5m, 1m", "not fresh (0 points, not redistributed): 5m, 1m"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "support_resistance_quality", "points": "10", "reasons": ["zone 774.03-776.85: 4 touches (+5)", "touched within last 20 sessions (+2)", "entry 0.10 ATR from zone (+3)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "relative_strength", "points": "5", "reasons": ["SPY NEUTRAL (+0.00%)"]}, {"max_points": 10, "missing_optional": [], "missing_required": [], "name": "market_regime_alignment", "points": "10", "reasons": ["regime RISK_ON"]}, {"max_points": 15, "missing_optional": [], "missing_required": [], "name": "reward_risk", "points": "0", "reasons": ["R:R 0.16 to Target 1 (+0)"]}]}, "setup_classification": "WATCH", "stop": "773.36", "stop_type": "BELOW_BREAKOUT_LEVEL", "strategy_type": "BREAKOUT", "target_1": "778.19", "target_1_source": "RESISTANCE_ZONE 778.53-780.21", "target_2": "794.91", "target_2_source": "MEASURED_MOVE (base 758.79-776.85)", "technical_thesis": "BREAKOUT: 1d close above resistance 774.03-776.85 (WEAK)", "ticker": "SPY", "timeframe_policy": {"horizon": "SHORT_TERM", "optional": ["1m"], "preferred": [], "required": ["1d", "1h", "15m", "5m"]}, "volume_context": "buying STRONG, selling WEAK, RVOL 0.72"}, "system_state": "SAFE", "ts": "2026-10-08T14:49:27+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T14:49:27+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-08T14:50:00+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-08T14:50:00+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-08T14:50:00+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-08T14:50:00+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-08T14:50:00+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-08T14:50:01+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T11:41:16+00:00"}
+{"event": "state_change", "new": "SAFE_MODE", "old": "INITIALIZING", "reasons": {"IBKR_NOT_CONNECTED": "TWS socket connection failed (is TWS running with API enabled?)"}, "ts": "2026-10-11T11:41:19+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-11T11:41:19+00:00"}
+{"event": "shutdown", "state": "SAFE_MODE", "ts": "2026-10-11T11:41:19+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T11:41:43+00:00"}
+{"event": "shutdown", "state": "INITIALIZING", "ts": "2026-10-11T11:41:43+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T11:41:44+00:00"}
+{"event": "shutdown", "state": "INITIALIZING", "ts": "2026-10-11T11:41:44+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T12:32:13+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-11T12:32:13+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-11T12:32:13+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-11T12:32:13+00:00"}
+{"event": "startup_verification", "reasons": {}, "state": "SAFE", "ts": "2026-10-11T12:32:13+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-11T12:32:14+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T12:35:22+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-11T12:35:23+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-11T12:35:23+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-11T12:35:23+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-11T12:36:52+00:00"}
+{"account_id": "DUQ190188", "event": "ledger_loaded", "ts": "2026-10-11T12:38:11+00:00"}
+{"bot_orders": 0, "bot_positions": 0, "event": "reconciliation", "external_orders": 0, "external_positions": 2, "mismatches": [], "ok": true, "ts": "2026-10-11T12:38:11+00:00"}
+{"event": "state_change", "new": "SAFE", "old": "INITIALIZING", "reasons": {}, "ts": "2026-10-11T12:38:11+00:00"}
+{"event": "shutdown", "state": "SAFE", "ts": "2026-10-11T12:38:15+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T12:39:13+00:00"}
+{"end": "2026-10-09", "event": "backtest", "out_dir": "C:\\Users\\UL5\\Documents\\IBKR Investment Bot\\Trading Bot\\trading_bot\\backtest\\results\\20261011-123930_a9604a982756", "run_id": "a9604a982756", "start": "2026-09-01", "symbols": ["AAPL"], "tier": 1, "ts": "2026-10-11T12:39:30+00:00"}
+{"event": "shutdown", "state": "INITIALIZING", "ts": "2026-10-11T12:39:30+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-11T12:53:43+00:00"}
+{"end": "2026-10-09", "event": "backtest", "out_dir": "C:\\Users\\UL5\\Documents\\IBKR Investment Bot\\Trading Bot\\trading_bot\\backtest\\results\\20261011-125432_9254beda4d29", "run_id": "9254beda4d29", "start": "2026-09-01", "symbols": ["AAPL"], "tier": 1, "ts": "2026-10-11T12:54:32+00:00"}
+{"event": "shutdown", "state": "INITIALIZING", "ts": "2026-10-11T12:54:32+00:00"}
+{"bot_capital": "800.00", "event": "startup", "port": 7497, "trading_mode": "PAPER", "ts": "2026-10-13T14:59:44+00:00"}
+{"end": "2026-10-09", "event": "backtest", "out_dir": "C:\\Users\\UL5\\Documents\\IBKR Investment Bot\\Trading Bot\\trading_bot\\backtest\\results\\20261013-150010_7c6d4646b210", "run_id": "7c6d4646b210", "start": "2026-09-01", "symbols": ["AAPL"], "tier": 1, "ts": "2026-10-13T15:00:10+00:00"}
+{"event": "shutdown", "state": "INITIALIZING", "ts": "2026-10-13T15:00:10+00:00"}

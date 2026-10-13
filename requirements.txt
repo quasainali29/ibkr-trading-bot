@@ -1,0 +1,8 @@
+# ibapi 10.50.2 is NOT installed from PyPI (the PyPI "ibapi" package is an
+# outdated 9.x release). Install it from the TWS API download instead:
+#   cd "C:\TWS API\source\pythonclient"
+#   python -m pip install .
+# Then verify:  python -c "import ibapi; print(ibapi.__version__)"
+
+pytest>=8.0
+tzdata>=2024.1   # required on Windows: IANA time zones for exchange sessions
